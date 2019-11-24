@@ -35,7 +35,7 @@ Non nisi deserunt fugiat occaecat voluptate nisi sunt enim aliquip laborum culpa
 s = "Halló markdown!"
 print(s)
 ```
-```javascript
+```c++
 String s = "Halló markdown!";
 Serial.println(s);
 ```
