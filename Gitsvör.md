@@ -24,5 +24,7 @@
 
 ### 5.
 * það gerir manni kleift að geyma verkefni á netinu og önnur fólk geta skoðað það eða vinna saman.
-  
+
+### 6.
+* 69 sinnum ( ͡° ͜ʖ ͡°).
   
