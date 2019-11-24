@@ -6,4 +6,10 @@
 * pwd - prentar út directory sem virkar frá root directory.
   
 * mkdir - býr til directory.
+
+### 2.
+* git clone -  Clonar repository inni í nýtt directory.
   
+* git status - Git status skipunin sýnir stöðu working directory og staging area. Það gerir þér kleift að sjá hvaða breytingar hafa verið settar, hverjar ekki og hvaða skrár eru ekki raknar af Git.
+  
+* git diff - Sýna breytingar á milli commits, commit og vinnu tré osfrv.
