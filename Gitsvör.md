@@ -27,4 +27,7 @@
 
 ### 6.
 * 69 sinnum ( ͡° ͜ʖ ͡°).
-  
+
+### 7.
+* working directory - er svæðið þar sem þú ert . Það er þar sem skrárnar þínar búa. 
+staging area - Þegar þú vinnur að verkefninu og gerir breytingar ertu að deala við working directory verkefnisins. Þetta er verkefnaskráin á skráarkerfi tölvunnar. Allar breytingar sem þú gerir verða áfram í working directory þar til þú bætir þeim við staging area (með git add command).
