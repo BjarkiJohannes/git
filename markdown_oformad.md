@@ -49,8 +49,9 @@ Do duis ut est consequat tempor amet ex eiusmod sunt pariatur proident laborum.
 
 Incididunt eiusmod enim culpa sit voluptate velit adipisicing voluptate anim ut incididunt commodo ea.
 ![mynd](https://tskoli.is/wp-content/uploads/2019/06/skolavorduholt-705x475.jpg)
-SETJA MYNDINA HÉR
 
 Commodo quis id ut deserunt cillum.
 
-SETJA YOUTUBE MYNDBANDIÐ HÉR
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=HUBNt18RFbo
+" target="_blank"><img src="https://i1.ytimg.com/vi/HUBNt18RFbo/hqdefault.jpg" 
+alt="IMAGE ALT TEXT HERE" width="480" height="260" border="10" /></a>
