@@ -23,11 +23,10 @@ Non nisi deserunt fugiat occaecat voluptate nisi sunt enim aliquip laborum culpa
 
 #### Sunt nisi excepteur mollit nostrud ipsum consequat.
 
-| python         c/c++          |
-| ------------- |:-------------:| 
-| col 3 is      | right-aligned |
-| col 2 is      | centered      |
-| zebra stripes | are neat      |
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
 
 Et pariatur velit do adipisicing culpa velit non cillum minim.
 
