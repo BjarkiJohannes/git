@@ -54,4 +54,4 @@ Commodo quis id ut deserunt cillum.
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=HUBNt18RFbo
 " target="_blank"><img src="https://i1.ytimg.com/vi/HUBNt18RFbo/hqdefault.jpg" 
-alt="IMAGE ALT TEXT HERE" width="480" height="260" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="480" height="300" border="10" /></a>
