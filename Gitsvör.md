@@ -19,3 +19,7 @@
 * git checkout - Git checkout gerir þér kleift að fletta á milli branches sem eru búin til af git branch.
   
 * git branch - branch táknar sjálfstæða line of development. Branches þjóna sem abstraction fyrir edit / stage / commit ferlið. Þú getur hugsað um þau sem leið til að biðja um glænýjan working directory, staging area og project history.
+### 4.
+* Hvað er útgáfustýring (Version Control)? - Version control er kerfi sem skráir breytingar á skrá eða sett af skrám, með tímanum þannig að þú getur náð í ákveðnar útgáfur síðar.
+  
+  
