@@ -23,10 +23,11 @@ Non nisi deserunt fugiat occaecat voluptate nisi sunt enim aliquip laborum culpa
 
 #### Sunt nisi excepteur mollit nostrud ipsum consequat.
 
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
+**python** | **c/c++**
+|--- | --- | 
+|print | Serial.print()| 
+|while i < 10| while(i < 10) | 
+|def fall()| void fall()|
 
 Et pariatur velit do adipisicing culpa velit non cillum minim.
 
